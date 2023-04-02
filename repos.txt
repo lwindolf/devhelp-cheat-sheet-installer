@@ -5,6 +5,11 @@ lzone-cheat-sheets;LZone Cheat Sheets;https://github.com/lwindolf/lzone-cheat-sh
 devhints-io;devhints.io;https://github.com/rstacruz/cheatsheets;.;*.md
 tldr-sh;tldr.sh;https://github.com/tldr-pages/tldr.git;pages;*/*.md
 free-programming-books;Free Programming Books;https://github.com/EbookFoundation/free-programming-books;books;*.md
-howprogworks;How Programming Works;https://github.com/HowProgrammingWorks/Book;content/en;*.md
-thejsway;The JS Way;https://github.com/thejsway/thejsway;manuscript;*.md
-reactnative;reactnative.guide;https://github.com/react-made-native-easy/book/;.;*/*.md
+howprogworks;Book: How Programming Works;https://github.com/HowProgrammingWorks/Book;content/en;*.md
+thejsway;Book: The JS Way;https://github.com/thejsway/thejsway;manuscript;*.md
+reactnative;Book: reactnative.guide;https://github.com/react-made-native-easy/book/;.;*/*.md
+wtfjs;Book: WTFJS;https://github.com/denysdovhan/wtfjs;.;*.md
+purebashbible;Book: Pure Bash Bible;https://github.com/dylanaraps/pure-bash-bible;.;*.md
+bashhandbook;Book: Bash Handbook;https://github.com/denysdovhan/bash-handbook;.;*.md
+learnvim;Book: Learn Vim;https://github.com/iggredible/Learn-Vim;.;*.md
+littlego;Book: Little Go Book;https://github.com/karlseguin/the-little-go-book/;en;go.md

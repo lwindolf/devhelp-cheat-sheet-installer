@@ -5,8 +5,8 @@ installs them for usage with the GTK/GNOME documentation viewer `devhelp`.
 
 ![devhelp screenshot](screenshot.png)
 
-Currently installable are roughly **4800 cheat sheets** from the following sources
-(as defined in `repos.txt`):
+Currently installable are roughly **4800 cheat sheets** and 9 books
+from the following sources (as defined in `repos.txt`):
 
 - Cheat Sheets
   - https://github.com/OWASP/CheatSheetSeries
@@ -19,7 +19,12 @@ Currently installable are roughly **4800 cheat sheets** from the following sourc
   - https://github.com/EbookFoundation/free-programming-books
   - https://github.com/HowProgrammingWorks/Book
   - https://github.com/thejsway/thejsway
+  - https://github.com/denysdovhan/wtfjs
   - https://github.com/react-made-native-easy/book/
+  - https://github.com/karlseguin/the-little-go-book/
+  - https://github.com/iggredible/Learn-Vim
+  - https://github.com/denysdovhan/bash-handbook
+  - https://github.com/dylanaraps/pure-bash-bible
 
 ## Usage
 
