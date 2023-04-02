@@ -9,7 +9,10 @@ howprogworks;Book: How Programming Works;https://github.com/HowProgrammingWorks/
 thejsway;Book: The JS Way;https://github.com/thejsway/thejsway;manuscript;*.md
 reactnative;Book: reactnative.guide;https://github.com/react-made-native-easy/book/;.;*/*.md
 wtfjs;Book: WTFJS;https://github.com/denysdovhan/wtfjs;.;*.md
+promise-cookbook;Book: JS Promises Cookbook;https://github.com/mattdesl/promise-cookbook;.;*.md
 purebashbible;Book: Pure Bash Bible;https://github.com/dylanaraps/pure-bash-bible;.;*.md
 bashhandbook;Book: Bash Handbook;https://github.com/denysdovhan/bash-handbook;.;*.md
 learnvim;Book: Learn Vim;https://github.com/iggredible/Learn-Vim;.;*.md
 littlego;Book: Little Go Book;https://github.com/karlseguin/the-little-go-book/;en;go.md
+littlemongo;Book: Little MongoDB Book;https://github.com/karlseguin/the-little-mongodb-book;en;*.md
+littleredis;Book: Little Redis Book;https://github.com/karlseguin/the-little-redis-book;en;*.md
