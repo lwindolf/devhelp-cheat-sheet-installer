@@ -3,6 +3,8 @@
 This installer downloads freely available cheat sheets from Github and
 installs them for usage with the GTK/GNOME documentation viewer `devhelp`.
 
+![devhelp screenshot](screenshot.png)
+
 Currently installable are roughly **4800 cheat sheets** from the following sources
 (as defined in `repos.txt`):
 
