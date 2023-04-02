@@ -1,7 +1,7 @@
 # Devhelp cheat sheet installer
 
 This installer downloads freely available cheat sheets from Github and
-installs them for usage with the GTK/GNOME documentation viewer `devhelp`.
+installs them locally for offline usage with the GTK/GNOME documentation viewer devhelp:
 
 ![devhelp screenshot](screenshot.png)
 
