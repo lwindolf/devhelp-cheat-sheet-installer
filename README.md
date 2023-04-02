@@ -8,14 +8,18 @@ installs them for usage with the GTK/GNOME documentation viewer `devhelp`.
 Currently installable are roughly **4800 cheat sheets** from the following sources
 (as defined in `repos.txt`):
 
-- https://github.com/OWASP/CheatSheetSeries
-- https://github.com/adambard/learnxinyminutes-docs
-- https://github.com/srsudar/eg
-- https://github.com/lwindolf/lzone-cheat-sheets
-- https://github.com/rstacruz/cheatsheets
-- https://github.com/tldr-pages/tldr
-- https://github.com/EbookFoundation/free-programming-books
-- https://github.com/HowProgrammingWorks/Book
+- Cheat Sheets
+  - https://github.com/OWASP/CheatSheetSeries
+  - https://github.com/adambard/learnxinyminutes-docs
+  - https://github.com/srsudar/eg
+  - https://github.com/lwindolf/lzone-cheat-sheets
+  - https://github.com/rstacruz/cheatsheets
+  - https://github.com/tldr-pages/tldr
+- Books
+  - https://github.com/EbookFoundation/free-programming-books
+  - https://github.com/HowProgrammingWorks/Book
+  - https://github.com/thejsway/thejsway
+  - https://github.com/react-made-native-easy/book/
 
 ## Usage
 

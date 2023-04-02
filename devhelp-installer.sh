@@ -34,6 +34,7 @@ to_html() {
                 <!DOCTYPE html>
                 <html>
                   <head>
+		    <title>$name</title>
                     <link rel="stylesheet" type="text/css" href="file:///$BASE/style.css"/>
                   </head>
                   <body>
