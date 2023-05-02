@@ -192,4 +192,4 @@ fi
 
 find "$TMPDIR" -delete
 
-devhelp
+nohup devhelp &

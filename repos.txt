@@ -16,3 +16,10 @@ learnvim;Book: Learn Vim;https://github.com/iggredible/Learn-Vim;.;*.md
 littlego;Book: Little Go Book;https://github.com/karlseguin/the-little-go-book/;en;go.md
 littlemongo;Book: Little MongoDB Book;https://github.com/karlseguin/the-little-mongodb-book;en;*.md
 littleredis;Book: Little Redis Book;https://github.com/karlseguin/the-little-redis-book;en;*.md
+30secondsofcode;Cheat Sheets: JS 30-seconds-of-code;https://github.com/30-seconds/30-seconds-of-code;snippets;*.md
+30secondsofinterviews;Cheat Sheets: JS 30-seconds-of-interviews;https://github.com/30-seconds/30-seconds-of-interviews;questions;*.md
+30secondsofpython;Cheat Sheets: Python 30-seconds-of-python;https://github.com/30-seconds/30-seconds-of-python;snippets;*.md
+30secondsofcss;Cheat Sheets: CSS 30-seconds-of-css;https://github.com/30-seconds/30-seconds-of-css;snippets;*.md
+30secondsofgit;Cheat Sheets: Git 30-seconds-of-git;https://github.com/30-seconds/30-seconds-of-git;snippets;*.md
+awesome-graphql;List: GraphQL;https://github.com/chentsulin/awesome-graphql;.;README.md
+fastai-fastbook;Book: fastai;https://github.com/fastai/fastbook;.;README.md
